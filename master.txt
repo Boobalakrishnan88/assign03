@@ -1,8 +1,18 @@
 
 
-on private branch
-A
-B
-B
 
-on 
+
+
+
+
+
+
+from private branch
+
+
+
+
+ 
+
+from public1 branch
+
